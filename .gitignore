@@ -1,1 +1,2 @@
-djangotutorial/mysite/wsgi.py
+env
+*.pyc
